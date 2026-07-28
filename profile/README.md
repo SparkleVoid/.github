@@ -1,10 +1,9 @@
-Welcome to the official **SparkleVoidStudio** GitHub page!  
-  
-We build high-quality plugins and developer tools for **Unreal Engine** to enhance and streamline your game development workflow.
-
----
-
-## 🛒 Featured Plugins on Fab
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  Featured Plugins on 
+  <a href="https://www.fab.com/sellers/SparkleVoidStudio" style="display: inline-flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/5632ef90-02d4-4533-b745-e3d74e99cbf0" alt="Fab Logo" height="32" style="vertical-align: middle;">
+  </a>
+</h1>
 
 <table>
   <!-- ROW 1 -->
