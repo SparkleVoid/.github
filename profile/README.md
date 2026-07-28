@@ -89,9 +89,9 @@
     </td>    
     <!-- COMING_SOON -->
     <td align="center" width="33%">
-      <!--<a href="FAB_LINK">
+      <a href="FAB_LINK">
         <img src="https://github.com/user-attachments/assets/01cb7c28-25a8-4608-b478-a3e65c169fa9" alt="Coming Soon" style="width:100%; border-radius: 8px;" />
-      </a> -->
+      </a>
         <img src="https://img.shields.io/badge/Docs-Coming%20Soon-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
