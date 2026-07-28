@@ -1,9 +1,3 @@
-# <img src="https://github.com/user-attachments/assets/cf33354e-7122-4ec1-8501-21efbb4fa9c5" width="40" height="40" valign="middle"> SparkleVoidStudio
-<!-- <div align="center">
-  <img src="https://github.com/user-attachments/assets/cf33354e-7122-4ec1-8501-21efbb4fa9c5" width="120" alt="SparkleVoidStudio Logo" />
-  <h1>SparkleVoidStudio</h1>
-</div> -->
-
 Welcome to the official **SparkleVoidStudio** GitHub page!  
   
 We build high-quality plugins and developer tools for **Unreal Engine** to enhance and streamline your game development workflow.
