@@ -89,13 +89,21 @@
     </td>    
     <!-- COMING_SOON -->
     <td align="center" width="33%">
-      <!-- Empty slot for next plugin -->
+      <!--<a href="FAB_LINK">
+        <img src="https://github.com/user-attachments/assets/01cb7c28-25a8-4608-b478-a3e65c169fa9" alt="Coming Soon" style="width:100%; border-radius: 8px;" />
+      </a> -->
+        <img src="https://img.shields.io/badge/Docs-Coming%20Soon-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
+      </a>
+      <br />
+        <img src="https://img.shields.io/badge/Fab-Coming%20Soon-5B21B6?style=flat-square&logo=unrealengine&logoColor=white" />
+      </a>
+      <br />
+      ??????
     </td>
   </tr>
 </table>
 
 ---
-
 
 ## 🛠 Support & Contact
 
