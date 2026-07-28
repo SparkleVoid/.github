@@ -11,7 +11,7 @@
     <!-- GAS_ATTRIBUTE_FINDER -->
     <td align="center" width="33%">
       <a href="FAB_LINK_GAS_ATTRIBUTE_FINDER">
-        <img src="https://github.com/user-attachments/assets/ca87a8d6-976e-4b9e-b63e-a124061c744a" alt="GAS Attribute Finder" style="width:100%; border-radius: 20px;" />       
+        <img src="https://github.com/user-attachments/assets/ca87a8d6-976e-4b9e-b63e-a124061c744a" alt="GAS Attribute Finder" width="100%"; border-radius: 20px;" />       
       </a>
       <br />
       <a href="https://github.com/SparkleVoid/GASAttributeFinderDocs/wiki">
@@ -27,7 +27,7 @@
     <!-- CUSTOM_CATEGORY_SECTION -->
     <td align="center" width="33%">
       <a href="FAB_LINK_CUSTOM_CATEGORY_SECTION">
-        <img src="https://github.com/user-attachments/assets/364bac62-639b-4a36-88de-4aae708b76be" alt="Custom Category Section" style="width:100%; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/364bac62-639b-4a36-88de-4aae708b76be" alt="Custom Category Section" width="100%"; border-radius: 8px;" />
       </a>
       <a href="https://github.com/SparkleVoid/CategorySectionsDoc/wiki">
         <img src="https://img.shields.io/badge/Docs-Custom%20Category%20Section-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
@@ -42,7 +42,7 @@
     <!-- GAMEPLAY_STATS -->
     <td align="center" width="33%">
       <a href="FAB_LINK_GAMEPLAY_STATS">
-        <img src="https://github.com/user-attachments/assets/8630d9ed-3d45-492f-a1d7-275405fe2412" alt="Gameplay Stats" style="width:100%; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/8630d9ed-3d45-492f-a1d7-275405fe2412" alt="Gameplay Stats" width="100%"; border-radius: 8px;" />
       </a>
       <a href="https://github.com/SparkleVoid/GameplayStatsDocs/wiki">
         <img src="https://img.shields.io/badge/Docs-Gameplay%20Stats-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
@@ -60,7 +60,7 @@
     <!-- CONSOLE_COMMAND_HUB -->
     <td align="center" width="33%">
       <a href="FAB_LINK_CONSOLE_COMMAND_HUB">
-        <img src="https://github.com/user-attachments/assets/ece3a440-5d37-4caf-acc3-f4368882601c" alt="Console Command Hub" style="width:100%; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/ece3a440-5d37-4caf-acc3-f4368882601c" alt="Console Command Hub" width="100%"; border-radius: 8px;" />
       </a>
       <a href="https://github.com/SparkleVoid/ConsoleCommandHubDocs/wiki">
         <img src="https://img.shields.io/badge/Docs-Console%20Command%20Hub-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
@@ -75,7 +75,7 @@
     <!-- BETTER_TIMELINE -->
     <td align="center" width="33%">
       <a href="FAB_LINK_BETTER_TIMELINE">
-        <img src="https://github.com/user-attachments/assets/01cb7c28-25a8-4608-b478-a3e65c169fa9" alt="Better Timeline" style="width:100%; border-radius: 8px;" />
+        <img src="https://github.com/user-attachments/assets/01cb7c28-25a8-4608-b478-a3e65c169fa9" alt="Better Timeline" width="100%"; border-radius: 8px;" />
       </a>
       <a href="https://github.com/SparkleVoid/BetterTimelineDocs/wiki">
         <img src="https://img.shields.io/badge/Docs-Better%20Timeline-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
@@ -89,9 +89,9 @@
     </td>    
     <!-- COMING_SOON -->
     <td align="center" width="33%">
-      <a href="FAB_LINK">
-        <img src="https://github.com/user-attachments/assets/01cb7c28-25a8-4608-b478-a3e65c169fa9" alt="Coming Soon" style="width:100%; border-radius: 8px;" />
-      </a>
+      <!--<a href="FAB_LINK">
+        <img src="https://github.com/user-attachments/assets/01cb7c28-25a8-4608-b478-a3e65c169fa9" alt="Coming Soon" width="100%"; border-radius: 8px;" />
+      </a>-->
         <img src="https://img.shields.io/badge/Docs-Coming%20Soon-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
