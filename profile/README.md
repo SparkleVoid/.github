@@ -26,7 +26,7 @@
     </td>
     <!-- CUSTOM_CATEGORY_SECTION -->
     <td align="center" width="33%">
-      <a href="FAB_LINK_CUSTOM_CATEGORY_SECTION">
+      <a href="https://www.fab.com/listings/615790dd-9525-43fd-a5fc-6855bb64871e">
         <img src="https://github.com/user-attachments/assets/364bac62-639b-4a36-88de-4aae708b76be" alt="Custom Category Section" width="100%"; border-radius: 8px;" />
       </a>
       <br />
@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/Docs-Custom%20Category%20Section-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
-      <a href="FAB_LINK_GAS_ATTRIBUTE_FINDER">
+      <a href="https://www.fab.com/listings/615790dd-9525-43fd-a5fc-6855bb64871e">
         <img src="https://img.shields.io/badge/Fab-Get_it_now-5B21B6?style=flat-square&logo=unrealengine&logoColor=white" />
       </a>
       <br />
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/Docs-Gameplay%20Stats-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
-      <a href="FAB_LINK_GAS_ATTRIBUTE_FINDER">
+      <a href="FAB_LINK_GAMEPLAY_STATS">
         <img src="https://img.shields.io/badge/Fab-Get_it_now-5B21B6?style=flat-square&logo=unrealengine&logoColor=white" />
       </a>
       <br />
@@ -69,7 +69,7 @@
         <img src="https://img.shields.io/badge/Docs-Console%20Command%20Hub-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
-      <a href="FAB_LINK_GAS_ATTRIBUTE_FINDER">
+      <a href="FAB_LINK_CONSOLE_COMMAND_HUB">
         <img src="https://img.shields.io/badge/Fab-Get_it_now-5B21B6?style=flat-square&logo=unrealengine&logoColor=white" />
       </a>
       <br />
@@ -85,7 +85,7 @@
         <img src="https://img.shields.io/badge/Docs-Better%20Timeline-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
-      <a href="FAB_LINK_GAS_ATTRIBUTE_FINDER">
+      <a href="FAB_LINK_BETTER_TIMELINE">
         <img src="https://img.shields.io/badge/Fab-Get_it_now-5B21B6?style=flat-square&logo=unrealengine&logoColor=white" />
       </a>
       <br />
