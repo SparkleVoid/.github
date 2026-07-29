@@ -42,7 +42,7 @@
     </td>
     <!-- GAMEPLAY_STATS -->
     <td align="center" width="33%">
-      <a href="FAB_LINK_GAMEPLAY_STATS">
+      <a href="https://www.fab.com/listings/e39590e9-1d38-444b-b801-c90be8ca15de">
         <img src="https://github.com/user-attachments/assets/8630d9ed-3d45-492f-a1d7-275405fe2412" alt="Gameplay Stats" width="100%"; border-radius: 8px;" />
       </a>
       <br />
@@ -50,7 +50,7 @@
         <img src="https://img.shields.io/badge/Docs-Gameplay%20Stats-007ACC?style=flat-square&logo=gitbook&logoColor=white" alt="Docs" />
       </a>
       <br />
-      <a href="FAB_LINK_GAMEPLAY_STATS">
+      <a href="https://www.fab.com/listings/e39590e9-1d38-444b-b801-c90be8ca15de">
         <img src="https://img.shields.io/badge/Fab-Get_it_now-5B21B6?style=flat-square&logo=unrealengine&logoColor=white" />
       </a>
       <br />
